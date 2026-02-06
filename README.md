@@ -68,10 +68,17 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyebi
 
 ## 📷 Ekran Görüntüleri
 
-*(Projenizden ekran görüntülerini `screenshots` klasörüne ekleyin ve aşağıda dosya isimlerini güncelleyin)*
+### 🏠 Ana Sayfa
+![Ana Ekran](screenshots/anasayfa.png)
 
-<!-- ![Ana Ekran](screenshots/ornek_resim.png) -->
-<!-- ![Dashboard](screenshots/dashboard.jpg) -->
+### 🚗 Araç Ekleme
+![Araç Ekleme](screenshots/aracekle.png)
+
+### 👤 Müşteri Ekleme
+![Müşteri Ekleme](screenshots/musteriekle.png)
+
+### 📝 Sözleşme Oluşturma
+![Sözleşme Ekleme](screenshots/sozlesmeekle.png)
 
 ---
 
