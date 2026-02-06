@@ -68,9 +68,10 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyebi
 
 ## 📷 Ekran Görüntüleri
 
-*(Buraya projenizden ekran görüntüleri ekleyebilirsiniz. Örn: Ana sayfa, Araç listesi vb.)*
+*(Projenizden ekran görüntülerini `screenshots` klasörüne ekleyin ve aşağıda dosya isimlerini güncelleyin)*
 
-<!-- ![Ana Ekran](resim_yolu.png) -->
+<!-- ![Ana Ekran](screenshots/ornek_resim.png) -->
+<!-- ![Dashboard](screenshots/dashboard.jpg) -->
 
 ---
 
