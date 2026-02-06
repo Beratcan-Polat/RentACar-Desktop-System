@@ -68,7 +68,6 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyebi
 
 ## 📷 Ekran Görüntüleri
 
-<<<<<<< HEAD
 ### 🏠 Ana Sayfa
 ![Ana Ekran](screenshots/anasayfa.png)
 
@@ -80,12 +79,6 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyebi
 
 ### 📝 Sözleşme Oluşturma
 ![Sözleşme Ekleme](screenshots/sozlesmeekle.png)
-=======
-<!-- ![Ana Ekran](screenshots/anasayfa.png) -->
-<!-- ![Müşteri Ekleme](screenshots/musteriekle.png) -->
-<!-- ![Araç Ekleme](screenshots/aracekle.png) -->
-<!-- ![Sözleşme Ekleme](screenshots/sozlesmeekle.png) -->
->>>>>>> f5bfb83c8dc27dfe3136c6d46e5181d2ba509414
 
 ---
 
