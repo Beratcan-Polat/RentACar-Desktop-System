@@ -15,7 +15,7 @@ Araç Kiralama Sistemi, oto kiralama firmalarının günlük operasyonlarını k
 *   **Araç Yönetimi:**
     *   Araç ekleme, güncelleme ve silme.
     *   Marka, model, yıl, yakıt tipi gibi detaylı araç özellikleri.
-    *   Araç durum takibi (Müsait, Kirada, Bakımda).
+    *   Araç durum takibi (Müsait, Kirada).
 *   **Müşteri Yönetimi:**
     *   Yeni müşteri kaydı oluşturma.
     *   Müşteri bilgilerini düzenleme ve kiralama geçmişi görüntüleme.
@@ -54,7 +54,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyebi
 
 1.  **Projeyi Klonlayın:**
     ```bash
-    git clone https://github.com/KULLANICI_ADI/Araç_Kiralama_Sistemi.git
+    git clone https://github.com/Beratcan-Polat/RentACar-Desktop-System.git
     ```
 2.  **Veritabanını Oluşturun:**
     *   `appsettings.json` dosyasındaki veritabanı bağlantı yolunu (Connection String) kendi sunucunuza göre düzenleyin.
@@ -76,7 +76,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyebi
 
 ## 👨‍💻 Geliştirici
 
-*   **Beratcan Polat** - *Full Stack Developer* - [GitHub Profilim](https://github.com/KULLANICI_ADI)
+*   **Beratcan Polat** - *Full Stack Developer* - [GitHub Profilim](https://github.com/Beratcan-Polat)
 
 ---
 *Bu proje İleri Programlama dersi kapsamında geliştirilmiştir.*
