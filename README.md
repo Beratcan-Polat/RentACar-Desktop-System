@@ -68,10 +68,10 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyebi
 
 ## 📷 Ekran Görüntüleri
 
-*(Projenizden ekran görüntülerini `screenshots` klasörüne ekleyin ve aşağıda dosya isimlerini güncelleyin)*
-
-<!-- ![Ana Ekran](screenshots/ornek_resim.png) -->
-<!-- ![Dashboard](screenshots/dashboard.jpg) -->
+<!-- ![Ana Ekran](screenshots/anasayfa.png) -->
+<!-- ![Müşteri Ekleme](screenshots/musteriekle.png) -->
+<!-- ![Araç Ekleme](screenshots/aracekle.png) -->
+<!-- ![Sözleşme Ekleme](screenshots/sozlesmeekle.png) -->
 
 ---
 
