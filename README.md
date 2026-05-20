@@ -82,8 +82,9 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyebi
 
 ---
 
-## 👨‍💻 Geliştirici
+## 👤 Geliştirici
 
-*   **Beratcan Polat** - [GitHub Profilim](https://github.com/Beratcan-Polat)
+**Beratcan Polat**  
+Adıyaman Üniversitesi
 
 
